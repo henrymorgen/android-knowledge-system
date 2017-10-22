@@ -1,5 +1,5 @@
 
-###  **Android知识体系（更新至2017.10.11）**
+###  **Android知识体系（更新至2017.10.23）**
 
 #### **Android应用层**
 
@@ -28,7 +28,7 @@
 | [深入理解JNI](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3JNI/) | 2篇 |更新中(基于Android 7.1.2)  |
 | [深入解析AMS](http://liuwangshu.cn/tags/ActivityManagerService/) | 2篇 |更新中(基于Android 7.1.2)  |
 | [解析WindowManager](http://liuwangshu.cn/tags/WindowManager/) | 3篇 |更新中(基于Android 7.1.2)  |
-| [解析WMS](http://liuwangshu.cn/tags/WindowManagerService/) | 1篇 |更新中(基于Android 8.0)  |
+| [解析WMS](http://liuwangshu.cn/tags/WindowManagerService/) | 2篇 |更新中(基于Android 8.0)  |
 
 #### **Java**
 | 文章系列    |    文章数目 | 状态与备注  |
