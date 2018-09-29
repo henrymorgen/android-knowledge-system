@@ -1,5 +1,18 @@
 
-###  **Android知识体系（更新至2017.10.23）**
+###  **Android知识体系（更新至2018.9.27）**
+
+#### **Android框架层**
+| 文章系列    |    文章数目 | 状态与备注  |
+| :--------: |:--------:| :--: |
+|[系统启动流程](http://liuwangshu.cn/tags/Android%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/)   | 5篇 |  完结(基于Android 7.0)  |
+| [应用进程启动流程](http://liuwangshu.cn/tags/Android%E5%BA%94%E7%94%A8%E8%BF%9B%E7%A8%8B/)   | 2篇 |  完结(基于Android 7.0)  |
+| [深入理解四大组件](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6/) | 8篇 |更多见《Android进阶解密》  |
+| [深入理解Context](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Context/) | 2篇 |完结(基于Android 7.0)  |
+| [深入理解JNI](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3JNI/) | 2篇 |完结(基于Android 7.1.2)  |
+| [深入解析AMS](http://liuwangshu.cn/tags/ActivityManagerService/) | 2篇 |完结(基于Android 7.1.2)  |
+| [解析WindowManager](http://liuwangshu.cn/tags/WindowManager/) | 3篇 |完结(基于Android 7.1.2)  |
+| [解析WMS](http://liuwangshu.cn/tags/WindowManagerService/) | 3篇 |完结(基于Android 8.0)  |
+| [包管理机制](http://liuwangshu.cn/tags/Android%E5%8C%85%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6/) | 4篇 |更新中(基于Android 8.0)  |
 
 #### **Android应用层**
 
@@ -15,26 +28,18 @@
 | [架构设计](http://liuwangshu.cn/tags/Android%E6%9E%B6%E6%9E%84/)   |1篇 |    更多见《Android进阶之光》 |
 | [绘制优化](http://liuwangshu.cn/tags/Android%E7%BB%98%E5%88%B6%E4%BC%98%E5%8C%96/)   | 2篇 |  完结 |
 | [内存优化](http://liuwangshu.cn/tags/Android%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/)   | 6篇 |  更新中  |
-| [解析ClassLoader](http://liuwangshu.cn/tags/ClassLoader/)   | 2篇 |  更新中  |
+| [解析ClassLoader](http://liuwangshu.cn/tags/ClassLoader/)   | 2篇 |  完结  |
+| [热修复原理](http://liuwangshu.cn/tags/Android%E7%83%AD%E4%BF%AE%E5%A4%8D%E5%8E%9F%E7%90%86/)   | 1篇 |  更多见《Android进阶解密》  |
+| [插件化原理](http://liuwangshu.cn/tags/Android%E6%8F%92%E4%BB%B6%E5%8C%96%E5%8E%9F%E7%90%86)   | 1篇 |  更多见《Android进阶解密》  |
+| [Android Gradle](http://liuwangshu.cn/tags/Android-Gradle/)   | 2篇 |  更新中  |
 
 
-#### **Android框架层**
-| 文章系列    |    文章数目 | 状态与备注  |
-| :--------: |:--------:| :--: |
-|[系统启动流程](http://liuwangshu.cn/tags/Android%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8/)   | 5篇 |  完结(基于Android 7.0)  |
-| [应用进程启动流程](http://liuwangshu.cn/tags/Android%E5%BA%94%E7%94%A8%E8%BF%9B%E7%A8%8B/)   | 2篇 |  完结(基于Android 7.0)  |
-| [深入理解四大组件](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6/) | 6篇 |更新中(基于Android 7.0)  |
-| [深入理解Context](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Context/) | 2篇 |完结(基于Android 7.0)  |
-| [深入理解JNI](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3JNI/) | 2篇 |更新中(基于Android 7.1.2)  |
-| [深入解析AMS](http://liuwangshu.cn/tags/ActivityManagerService/) | 2篇 |更新中(基于Android 7.1.2)  |
-| [解析WindowManager](http://liuwangshu.cn/tags/WindowManager/) | 3篇 |更新中(基于Android 7.1.2)  |
-| [解析WMS](http://liuwangshu.cn/tags/WindowManagerService/) | 2篇 |更新中(基于Android 8.0)  |
 
 #### **Java**
 | 文章系列    |    文章数目 | 状态与备注  |
 | :--------: |:--------:| :--: |
-|[Java并发编程](http://liuwangshu.cn/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/)   | 7篇 | 更新中  |
-|[Java虚拟机](http://liuwangshu.cn/tags/Java%E8%99%9A%E6%8B%9F%E6%9C%BA/)   | 4篇 | 更新中(基于JDK8)  |
+|[Java并发编程](http://liuwangshu.cn/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/)   | 7篇 | 完结  |
+|[Java虚拟机](http://liuwangshu.cn/tags/Java%E8%99%9A%E6%8B%9F%E6%9C%BA/)   | 4篇 | 完结(基于JDK8)  |
 
 #### **React Native**
 | 文章系列    |    文章数目 | 状态与备注  |
