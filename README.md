@@ -309,6 +309,8 @@
 [Swift快速入门（四）流程控制](http://blog.csdn.net/itachi85/article/details/50658955)                                      
 [Swift快速入门（五）集合](http://blog.csdn.net/itachi85/article/details/50809810)
 
+---
 
+这里不仅分享大前端、Android、Java等技术，还有程序员成长类文章。
 
-
+![](https://s2.ax1x.com/2019/10/24/KtXbJs.jpg)
