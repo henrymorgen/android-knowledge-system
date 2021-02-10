@@ -9,7 +9,7 @@
 
 
 ---
-#### **BATcoder技术视频(基于Android 11.0**
+#### **BATcoder技术视频(基于Android 11.0)**
 [一个视频帮你突破系统底层学习瓶颈！](http://liuwangshu.cn/batcoder/android-framework.html)
 
 [是时候安装Ubuntu，开始研究系统源码了！](http://liuwangshu.cn/batcoder/aosp/1-install-ubuntu.html)
