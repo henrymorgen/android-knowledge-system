@@ -1,4 +1,4 @@
-# Android应用开发原创知识体系
+# Android最强原创知识体系
 
 
 为了方便大家的阅读以及自己的知识体系的建立，特意来写出这个引导文章。以前我是遇到什么写什么，想到什么写什么，从2016年开始我将围绕这个知识体系来写文章，从点到面来逐步建立并完善自己的知识体系。对于Android应用开发知识体系的建立，我这里貌似是最早的，后面有很多人开始模仿，也算是带了个好头。
@@ -9,6 +9,12 @@
 
 
 ---
+#### **BATcoder技术视频(基于Android 11.0）**
+[一个视频帮你突破系统底层学习瓶颈！](http://liuwangshu.cn/batcoder/android-framework.html)
+[是时候安装Ubuntu，开始研究系统源码了！](http://liuwangshu.cn/batcoder/aosp/1-install-ubuntu.html)
+[是时候下载Android11系统源码和内核源码了！](http://liuwangshu.cn/batcoder/aosp/2-download-aosp.html)
+
+
 ## **1.Android框架层**
 [Android系统架构与系统源码目录](http://liuwangshu.cn/framework/system-architecture.html)
 #### **AOSP基础（基于Android 9.0）**
