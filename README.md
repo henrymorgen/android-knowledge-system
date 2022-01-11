@@ -11,8 +11,11 @@
 ---
 #### **BATcoder技术视频(基于Android 11.0)**
 [一个视频帮你突破系统底层学习瓶颈！](http://liuwangshu.cn/batcoder/android-framework.html) 
+
 [是时候安装Ubuntu，开始研究系统源码了！](http://liuwangshu.cn/batcoder/aosp/1-install-ubuntu.html) 
+
 [是时候下载Android11系统源码和内核源码了！](http://liuwangshu.cn/batcoder/aosp/2-download-aosp.html) 
+
 [做了多年安卓还没编译过源码？一个视频带你玩转！](http://liuwangshu.cn/batcoder/aosp/3-compiling-aosp.html)  
 
 
